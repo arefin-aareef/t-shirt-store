@@ -1,11 +1,15 @@
 .grandpa {
+    border: 2px solid goldenrod;
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
     text-align: center;
 }
 
-.grandpa, .grandpa div {
+.grandpa div {
     border: 2px solid goldenrod;
-    padding: 10px;
-    margin: 10px;
+    padding: 15px;
+    margin: 15px;
     border-radius: 10px;
 }
 
